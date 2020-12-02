@@ -64,6 +64,3 @@ const url =
 
     await browser.close();
 })();
-
-// Change code to accept from command line or meta sheet to run multiple url's
-// Prevent duplicate sheets to be added - hint read title for all sheets and delete if you have one with same title as the one you want to add
